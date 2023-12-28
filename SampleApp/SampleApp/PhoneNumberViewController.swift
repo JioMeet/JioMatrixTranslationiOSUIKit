@@ -66,7 +66,7 @@ class PhoneNumberViewController: UIViewController, UITextFieldDelegate {
         phoneNumberTextField.leftView = leftPaddingView
         phoneNumberTextField.leftViewMode = .always
         phoneNumberTextField.delegate = self
-        phoneNumberTextField.text = "9898656387"
+        phoneNumberTextField.text = ""
         continueButton.addTarget(self, action: #selector(continueWithoutToken), for: .touchUpInside)
         
         // view.addSubview(saveButton)
