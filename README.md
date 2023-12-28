@@ -73,7 +73,7 @@ NSLayoutConstraint.activate([
 
 
 ```swift
-let config = JMTranslationConfig(speechKey: "", speechRegion: "", textTranslationKey: "")
-translationView.setUpTranslationScreen(webToken: token, config: config)
+let config = JMTranslationConfig(speechKey: SPEECH_KEY, speechRegion: SPEECH_REGION, textTranslationKey: TRANSLATION_KEY)
+translationView.setUpTranslationScreen(webToken: YOUR_TOKEN, config: config)
 
 ```
