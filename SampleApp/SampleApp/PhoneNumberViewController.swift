@@ -96,8 +96,8 @@ class PhoneNumberViewController: UIViewController, UITextFieldDelegate {
         translationView.frame = self.view.frame
         view.addSubview(translationView)
         translationView.pinViewToSuperView(superView: view)
-        let config = JMTranslationConfig(speechKey: "3b0d9f07d9ef41c099dc9243e3012051", speechRegion: "centralindia", textTranslationKey: "9c47c5bdb4504cd48422ee2b8683d3c5")
-        translationView.setUpTranslationScreen(webToken: token, config: config)
+        let config = JMTranslationConfig(speechKey: SPEECH_KEY, speechRegion: SPEECH_REGION, textTranslationKey: TEXT_TRANSLATION_KEY)
+        translationView.setUpTranslationScreen(webToken: YOUR_TOKEN, config: config)
     }
     
     // MARK: - UITextFieldDelegate
