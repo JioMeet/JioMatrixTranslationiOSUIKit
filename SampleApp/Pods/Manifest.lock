@@ -1,0 +1,24 @@
+PODS:
+  - JioMatrixTranslationSDK (0.1.0-alpha1):
+    - MicrosoftCognitiveServicesSpeech-iOS (~> 1.25)
+    - Starscream (~> 4.0.6)
+  - MicrosoftCognitiveServicesSpeech-iOS (1.34.0)
+  - Starscream (4.0.6)
+
+DEPENDENCIES:
+  - JioMatrixTranslationSDK (~> 0.1.0-alpha1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JioMatrixTranslationSDK
+    - MicrosoftCognitiveServicesSpeech-iOS
+    - Starscream
+
+SPEC CHECKSUMS:
+  JioMatrixTranslationSDK: 8961dd0fc14c58c10b27b9ca4b1302bdc7505012
+  MicrosoftCognitiveServicesSpeech-iOS: 723eccb3e459bbb530df3d9bfe84a291074b09eb
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+
+PODFILE CHECKSUM: 86da8b5fcdff4174c45d56a8236ae51aece2ed83
+
+COCOAPODS: 1.14.3

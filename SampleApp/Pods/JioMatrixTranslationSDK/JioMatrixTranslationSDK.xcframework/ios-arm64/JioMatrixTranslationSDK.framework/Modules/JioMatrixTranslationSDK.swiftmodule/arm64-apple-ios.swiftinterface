@@ -1,0 +1,71 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name JioMatrixTranslationSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import Contacts
+import DeveloperToolsSupport
+import Foundation
+@_exported import JioMatrixTranslationSDK
+import MicrosoftCognitiveServicesSpeech
+import Swift
+import SwiftUI
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum JMApiServer : Swift.String {
+  case staging
+  case preStage
+  case rc
+  case production
+  case virginGroups
+  case demo
+  public func getApiUrl() -> Swift.String
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum JMCurrentUserType {
+  case guest
+  case loggedIn
+  public static func == (a: JioMatrixTranslationSDK.JMCurrentUserType, b: JioMatrixTranslationSDK.JMCurrentUserType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol JMChatDeleagate {
+  func refreshChatData()
+}
+public protocol NetworkReachabilityHandlerDelegate {
+  func didNetworkStateChanged(isConnected: Swift.Bool)
+}
+@_hasMissingDesignatedInitializers public class NetworkReachabilityHandler {
+  public static let instance: JioMatrixTranslationSDK.NetworkReachabilityHandler
+  @objc deinit
+}
+extension JioMatrixTranslationSDK.NetworkReachabilityHandler {
+  public func addDelegates(delegate: (any JioMatrixTranslationSDK.NetworkReachabilityHandlerDelegate)?, identifier: Foundation.UUID)
+  public func removeDelegate(identifier: Foundation.UUID)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class JMTranslationView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func setUpTranslationScreen(webToken: Swift.String, config: JioMatrixTranslationSDK.JMTranslationConfig)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public struct JMTranslationConfig {
+  public let speechKey: Swift.String
+  public let speechRegion: Swift.String
+  public let textTranslationKey: Swift.String
+  public init(speechKey: Swift.String, speechRegion: Swift.String, textTranslationKey: Swift.String)
+}
+extension JioMatrixTranslationSDK.JMApiServer : Swift.Equatable {}
+extension JioMatrixTranslationSDK.JMApiServer : Swift.Hashable {}
+extension JioMatrixTranslationSDK.JMApiServer : Swift.RawRepresentable {}
+extension JioMatrixTranslationSDK.JMCurrentUserType : Swift.Equatable {}
+extension JioMatrixTranslationSDK.JMCurrentUserType : Swift.Hashable {}

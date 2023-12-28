@@ -1,0 +1,11 @@
+framework module JioMatrixTranslationSDK {
+  umbrella header "JioMatrixTranslationSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module JioMatrixTranslationSDK.Swift {
+  header "JioMatrixTranslationSDK-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SampleApp/Pods-SampleApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/JioMatrixTranslationSDK/JioMatrixTranslationSDK.framework/JioMatrixTranslationSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MicrosoftCognitiveServicesSpeech-iOS/MicrosoftCognitiveServicesSpeech.framework/MicrosoftCognitiveServicesSpeech
