@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		aZYl/F+3xQxU7vTJ5MfNHBrLmMY=
+		y7K1H+Xv12iYDM1u+zBo+CchDRE=
 		</data>
 		<key>Headers/JioMatrixTranslationSDK-Swift.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8CsMRqRFOHCXLNcIO4xFoit7eTY=
+		4aKcUd9f8Le94u02EhwmCRBaSfM=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lzhUDpxRor2UkTa1bxiOeBF8sGs=
+		pMkg9j/DDNOfHl67W2dPTrY/cAQ=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qr8YkBUftwA0NDi6ShOEayI0EKo=
+		r7WYyQH9bRNNdRu6coNzAzzuMTE=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		duahajDFzpxXcHtXc6MxD0FNPps=
+		iHbrzLo6EmkUjoheVg5h3kgXRxU=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qr8YkBUftwA0NDi6ShOEayI0EKo=
+		r7WYyQH9bRNNdRu6coNzAzzuMTE=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P9V6BaK+4WgsFT814xiar0lSilY=
+		30FV0ZPCuPLAg92BG+X9oHLvBIQ=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lzhUDpxRor2UkTa1bxiOeBF8sGs=
+		pMkg9j/DDNOfHl67W2dPTrY/cAQ=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		v6TpcxXaCFTQ2HTomswBc1mDXII=
+		D5xJ3OsIGbB/cxrtMIvatSGovP0=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		EB8orzZJgqDPpC+CIKv1gsTlqi4=
+		Zkb7+UCjZAG0ZVFwQoBiBXKa+5o=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		v6TpcxXaCFTQ2HTomswBc1mDXII=
+		D5xJ3OsIGbB/cxrtMIvatSGovP0=
 		</data>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YScOfslAMh/yiVhHAk32vyDLZCg=
+		AKX5++IYSf2JMhvj0vWG5K41jO4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLDQu+K2MwskaH6/4kDcO+m45YES/CLtt7TOmWPcdIA=
+			2a7pNduPXFjgCHcBtMEY4j7Y7JvLRl+xXIDo4Rj/RL4=
 			</data>
 		</dict>
 		<key>Headers/JioMatrixTranslationSDK-Swift.h</key>
@@ -128,70 +128,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lBw1doviJh5b/FzUEs+wxVkyecdZD7ov1gKDCKPIh6M=
+			aYI11U+guaTKFsA5agVWr8gKG0N4mdNFUBTVyXJwDdo=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WhkI6xhpmN3zSgPRUmQrgaILOGkViOdmdjrZ9NJlgts=
+			7iS0l0UeYo1JLViA1+UKcEQHfL7fJT7SobrumS8JPXM=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PaAv/LmxF+PdKnu5L7qyalcFkil9DYsGsTlSB1HoudE=
+			5rMFlkqSuQ4+J6aTzj2U0Gl9HWi3L08PmqOitCcJeDE=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WhkI6xhpmN3zSgPRUmQrgaILOGkViOdmdjrZ9NJlgts=
+			7iS0l0UeYo1JLViA1+UKcEQHfL7fJT7SobrumS8JPXM=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5AoNqnadyowKSqPVHByOBBM0ec9qrkubnAquNKsLGNU=
+			iIwdKh3YP72FE2Qm/nQ4fHRVjjnAbudC10BQ6DHOkX8=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lBw1doviJh5b/FzUEs+wxVkyecdZD7ov1gKDCKPIh6M=
+			aYI11U+guaTKFsA5agVWr8gKG0N4mdNFUBTVyXJwDdo=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qCYUaXqDGZDCgsMgHy7igVAli/C0e2QsboyrfwTuKUg=
+			ea/wSsliv7O5NIqORn0iHzuDJi8uJXIrwSJF/ErzzNw=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PmDLC2wA5g7CrvoBpOzDuTiJBgMb6E6e7FH1Ypuii/w=
+			onl88YsMf8Sh8CMSaCX2ZsbfmEg8gm0wwizFQOhUD9k=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qCYUaXqDGZDCgsMgHy7igVAli/C0e2QsboyrfwTuKUg=
+			ea/wSsliv7O5NIqORn0iHzuDJi8uJXIrwSJF/ErzzNw=
 			</data>
 		</dict>
 		<key>Modules/JioMatrixTranslationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h17Urkrqj0nUFzD3NhrnsjjyzWjaY+DCinFfitceeF4=
+			MPhrSh2zjU+bnQzJEWhwrn9QHv93JB3yYva0n3cAxk0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

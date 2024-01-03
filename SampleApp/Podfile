@@ -9,7 +9,7 @@ target 'SampleApp' do
   # Pods for SampleApp
 
 
-   pod 'JioMatrixTranslationSDK', '~> 0.1.0-alpha1'
+   pod 'JioMatrixTranslationSDK', '~> 0.1.0-alpha2'
 
   target 'SampleAppTests' do
     inherit! :search_paths

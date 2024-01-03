@@ -3238,259 +3238,259 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "StringLiteral",
-      "offset": 1221,
+      "offset": 1226,
       "length": 20,
       "value": "\"chatSelfPlayButton\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "StringLiteral",
-      "offset": 1297,
+      "offset": 1302,
       "length": 21,
       "value": "\"chatAudioPlayButton\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 1396,
+      "offset": 1401,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "StringLiteral",
-      "offset": 1707,
+      "offset": 1712,
       "length": 11,
       "value": "\"audioWave\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 1782,
+      "offset": 1787,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 1966,
+      "offset": 1971,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 2082,
+      "offset": 2087,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 2308,
+      "offset": 2313,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 2372,
+      "offset": 2377,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 2550,
+      "offset": 2555,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 2716,
+      "offset": 2721,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 2878,
+      "offset": 2883,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 3043,
+      "offset": 3048,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 3208,
+      "offset": 3213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 3389,
+      "offset": 3394,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 3453,
+      "offset": 3458,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 3647,
+      "offset": 3652,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "StringLiteral",
-      "offset": 3703,
+      "offset": 3708,
       "length": 9,
       "value": "\"#9EB5FA\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 3753,
+      "offset": 3758,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 3818,
+      "offset": 3823,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "FloatLiteral",
-      "offset": 4002,
+      "offset": 4007,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "BooleanLiteral",
-      "offset": 4068,
+      "offset": 4073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "FloatLiteral",
-      "offset": 5390,
+      "offset": 5395,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 5561,
+      "offset": 5566,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 5741,
+      "offset": 5746,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 5819,
+      "offset": 5824,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 5915,
+      "offset": 5920,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6078,
+      "offset": 6083,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6159,
+      "offset": 6164,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6227,
+      "offset": 6232,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6308,
+      "offset": 6313,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6377,
+      "offset": 6382,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6469,
+      "offset": 6474,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6554,
+      "offset": 6559,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6631,
+      "offset": 6636,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "IntegerLiteral",
-      "offset": 6713,
+      "offset": 6718,
       "length": 2,
       "value": "92"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellYours.swift",
       "kind": "StringLiteral",
-      "offset": 6800,
+      "offset": 6805,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
@@ -3623,1330 +3623,1365 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 1932,
+      "offset": 1977,
       "length": 10,
-      "value": "\"mic.fill\""
+      "value": "\"micWhite\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2092,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2104,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2229,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2235,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2246,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2258,
+      "length": 2,
+      "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 2222,
+      "offset": 2437,
       "length": 15,
       "value": "\"Voice Chat   \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2429,
+      "offset": 2644,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2475,
+      "offset": 2690,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2482,
+      "offset": 2697,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2492,
+      "offset": 2707,
       "length": 3,
       "value": "248"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2505,
+      "offset": 2720,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 2554,
+      "offset": 2769,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 2724,
-      "length": 14,
-      "value": "\"message.fill\""
+      "offset": 2934,
+      "length": 13,
+      "value": "\"sendMessage\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3027,
+      "offset": 3160,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3033,
+      "offset": 3166,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3043,
+      "offset": 3176,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3055,
+      "offset": 3188,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3396,
+      "offset": 3529,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3451,
+      "offset": 3584,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3519,
+      "offset": 3652,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3730,
+      "offset": 3863,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 3780,
+      "offset": 3913,
       "length": 8,
       "value": "\"f2f5ff\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 4096,
+      "offset": 4229,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 4185,
+      "offset": 4318,
       "length": 8,
       "value": "\"f2f5ff\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4267,
+      "offset": 4400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 4449,
+      "offset": 4587,
       "length": 11,
       "value": "\"pauseIcon\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 4525,
+      "offset": 4663,
       "length": 13,
       "value": "\"sendMessage\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4895,
+      "offset": 5033,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 5047,
+      "offset": 5185,
       "length": 6,
       "value": "\"0:00\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 5114,
+      "offset": 5252,
       "length": 4,
       "value": "0.65"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5175,
+      "offset": 5313,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5245,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "StringLiteral",
       "offset": 5383,
-      "length": 6,
-      "value": "\"0:00\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 5442,
-      "length": 4,
-      "value": "0.65"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5495,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5557,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 5715,
+      "offset": 5521,
+      "length": 6,
+      "value": "\"0:00\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 5580,
+      "length": 4,
+      "value": "0.65"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5633,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5695,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "StringLiteral",
+      "offset": 5858,
       "length": 15,
       "value": "\"mic_recording\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 5789,
+      "offset": 5932,
       "length": 14,
       "value": "\"deleteButton\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6091,
+      "offset": 6234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6417,
+      "offset": 6560,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6519,
+      "offset": 6662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6710,
+      "offset": 6853,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6887,
+      "offset": 7030,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7205,
+      "offset": 7348,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7307,
+      "offset": 7450,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 7488,
+      "offset": 7636,
       "length": 15,
       "value": "\"audioPlayIcon\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 7568,
+      "offset": 7716,
       "length": 21,
       "value": "\"chatAudioPlayButton\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7935,
+      "offset": 8083,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 8394,
-      "length": 14,
-      "value": "\"chevron.left\""
+      "offset": 8537,
+      "length": 6,
+      "value": "\"back\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9106,
+      "offset": 9241,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9200,
+      "offset": 9335,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9250,
+      "offset": 9385,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 9693,
+      "offset": 9828,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 9787,
+      "offset": 9922,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9864,
+      "offset": 9999,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9943,
+      "offset": 10078,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10036,
+      "offset": 10171,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10074,
+      "offset": 10209,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10114,
+      "offset": 10249,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10156,
+      "offset": 10291,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10221,
+      "offset": 10356,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10278,
+      "offset": 10413,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 10545,
+      "offset": 10680,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 10551,
+      "offset": 10686,
       "length": 11,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 10561,
+      "offset": 10696,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10828,
+      "offset": 10963,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 10954,
+      "offset": 11089,
       "length": 26,
       "value": "\"voice chat button tapped\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11077,
+      "offset": 11212,
       "length": 23,
       "value": "\"message button tapped\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11170,
+      "offset": 11305,
       "length": 19,
       "value": "\"microphone tapped\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11338,
+      "offset": 11473,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11392,
+      "offset": 11527,
       "length": 78,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11451,
+      "offset": 11586,
       "length": 1,
       "value": "\"##\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11469,
+      "offset": 11604,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 11515,
+      "offset": 11650,
       "length": 13,
       "value": "\"messageSent\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11669,
+      "offset": 11804,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11716,
+      "offset": 11851,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11790,
+      "offset": 11925,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11852,
+      "offset": 11987,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11928,
+      "offset": 12063,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 12005,
+      "offset": 12140,
       "length": 9,
       "value": "\"#B5B5B5\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 12111,
+      "offset": 12246,
       "length": 4,
       "value": "0.65"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12173,
+      "offset": 12308,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12219,
+      "offset": 12354,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12261,
+      "offset": 12396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12456,
+      "offset": 12591,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 13226,
+      "offset": 13361,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 13747,
+      "offset": 13882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13854,
+      "offset": 13989,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 13936,
+      "offset": 14071,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 14425,
+      "offset": 14560,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 14544,
+      "offset": 14679,
       "length": 20,
       "value": "\"completedAudioWave\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 14699,
+      "offset": 14834,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15115,
+      "offset": 15250,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15270,
+      "offset": 15405,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15302,
+      "offset": 15437,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15527,
+      "offset": 15662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 15731,
+      "offset": 15866,
       "length": 17,
       "value": "\"normalAudioWave\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16154,
+      "offset": 16289,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 16228,
+      "offset": 16363,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16243,
+      "offset": 16378,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 16315,
+      "offset": 16450,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16330,
+      "offset": 16465,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16635,
+      "offset": 16770,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 16670,
+      "offset": 16805,
       "length": 6,
       "value": "\"0:00\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 16701,
+      "offset": 16836,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16749,
+      "offset": 16884,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16786,
+      "offset": 16921,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16830,
+      "offset": 16965,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16875,
+      "offset": 17010,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16925,
+      "offset": 17060,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16967,
+      "offset": 17102,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 16999,
+      "offset": 17134,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17047,
+      "offset": 17182,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17113,
+      "offset": 17248,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17170,
+      "offset": 17305,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17237,
+      "offset": 17372,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17429,
+      "offset": 17564,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17531,
+      "offset": 17666,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17606,
+      "offset": 17741,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17747,
+      "offset": 17882,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17904,
+      "offset": 18042,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17942,
-      "length": 4,
-      "value": "3600"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17950,
+      "offset": 18050,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17986,
+      "offset": 18086,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 17994,
+      "offset": 18094,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 18040,
+      "offset": 18140,
       "length": 10,
       "value": "\"%2d:%02d\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 18083,
+      "offset": 18183,
       "length": 35,
       "value": "\"formatted time : \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 18117,
+      "offset": 18217,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18366,
+      "offset": 18466,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18378,
+      "offset": 18478,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18484,
+      "offset": 18584,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 18540,
+      "offset": 18640,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19063,
+      "offset": 19163,
       "length": 3,
       "value": "104"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19253,
+      "offset": 19353,
       "length": 2,
-      "value": "45"
+      "value": "55"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19358,
-      "length": 2,
-      "value": "25"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19433,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19509,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19671,
-      "length": 2,
-      "value": "90"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19775,
+      "offset": 19458,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 20020,
+      "offset": 19533,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19609,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19771,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19876,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20121,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 20114,
+      "offset": 20215,
       "length": 3,
       "value": "-24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 20184,
+      "offset": 20285,
       "length": 4,
       "value": "48.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 20445,
+      "offset": 20546,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 20544,
+      "offset": 20645,
       "length": 5,
       "value": "-16.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 20643,
+      "offset": 20744,
       "length": 3,
       "value": "-40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 20849,
+      "offset": 20950,
       "length": 5,
       "value": "248.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21126,
+      "offset": 21227,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21244,
+      "offset": 21345,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21248,
+      "offset": 21349,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 21357,
+      "offset": 21458,
       "length": 17,
       "value": "\"normalAudioWave\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21533,
+      "offset": 21634,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21611,
+      "offset": 21712,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21626,
+      "offset": 21727,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21702,
+      "offset": 21803,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21717,
+      "offset": 21818,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23119,
+      "offset": 23220,
       "length": 2,
       "value": "88"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23551,
+      "offset": 23652,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23640,
+      "offset": 23741,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23730,
+      "offset": 23831,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23818,
+      "offset": 23919,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23894,
+      "offset": 23995,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23981,
+      "offset": 24082,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 24056,
+      "offset": 24157,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 24142,
+      "offset": 24243,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 24216,
+      "offset": 24317,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 24458,
+      "offset": 24559,
       "length": 3,
       "value": "154"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 24536,
+      "offset": 24637,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25352,
+      "offset": 25453,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25512,
+      "offset": 25613,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 25569,
+      "offset": 25670,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 25575,
+      "offset": 25676,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 25752,
+      "offset": 25853,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25804,
+      "offset": 25905,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25854,
+      "offset": 25955,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 26232,
+      "offset": 26333,
       "length": 4,
       "value": "\"##\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 26283,
+      "offset": 26384,
       "length": 7,
       "value": "\"en-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 26401,
+      "offset": 26502,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 26473,
+      "offset": 26574,
       "length": 7,
       "value": "\"en-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 26849,
+      "offset": 26950,
       "length": 28,
       "value": "\"speech synthesis completed\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 27269,
+      "offset": 27370,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27739,
+      "offset": 27840,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27899,
+      "offset": 28000,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 27956,
+      "offset": 28057,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 27962,
+      "offset": 28063,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "FloatLiteral",
-      "offset": 28139,
+      "offset": 28240,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 28191,
+      "offset": 28292,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 28241,
+      "offset": 28342,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 28619,
+      "offset": 28720,
       "length": 4,
       "value": "\"##\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 28670,
+      "offset": 28771,
       "length": 7,
       "value": "\"en-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 28788,
+      "offset": 28889,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 28860,
+      "offset": 28961,
       "length": 7,
       "value": "\"en-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "StringLiteral",
-      "offset": 29236,
+      "offset": 29337,
       "length": 28,
       "value": "\"speech synthesis completed\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 29656,
+      "offset": 29757,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/ChatVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 29902,
+      "offset": 30003,
       "length": 3,
       "value": "125"
     },
@@ -4974,35 +5009,35 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Socket\/SocketManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1052,
+      "offset": 1041,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Socket\/SocketManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1141,
+      "offset": 1130,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Socket\/SocketManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1233,
+      "offset": 1222,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Socket\/SocketManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1297,
+      "offset": 1286,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Socket\/SocketManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1431,
+      "offset": 1420,
       "length": 1,
       "value": "1"
     },
@@ -5723,434 +5758,434 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 6445,
+      "offset": 6440,
       "length": 7,
-      "value": "\"xmark\""
+      "value": "\"cross\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6689,
+      "offset": 6684,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 6958,
+      "offset": 6953,
       "length": 14,
       "value": "\"LanguageCell\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7065,
+      "offset": 7060,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7564,
+      "offset": 7559,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7678,
+      "offset": 7673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8158,
+      "offset": 8153,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8283,
+      "offset": 8278,
       "length": 3,
       "value": "-18"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8355,
+      "offset": 8350,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8450,
+      "offset": 8445,
       "length": 2,
       "value": "21"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8891,
+      "offset": 8886,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 8978,
+      "offset": 8973,
       "length": 9,
       "value": "\"English\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 8997,
+      "offset": 8992,
       "length": 17,
       "value": "\"हिंदी\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9027,
+      "offset": 9022,
       "length": 23,
       "value": "\"ગુજરાતી\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9062,
+      "offset": 9057,
       "length": 17,
       "value": "\"मराठी\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9091,
+      "offset": 9086,
       "length": 17,
       "value": "\"বাংলা\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9119,
+      "offset": 9114,
       "length": 20,
       "value": "\"తెలుగు\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9225,
+      "offset": 9220,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9258,
+      "offset": 9253,
       "length": 4,
       "value": "\"hi\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9294,
+      "offset": 9289,
       "length": 4,
       "value": "\"gu\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9329,
+      "offset": 9324,
       "length": 4,
       "value": "\"mr\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9364,
+      "offset": 9359,
       "length": 4,
       "value": "\"bn\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9398,
+      "offset": 9393,
       "length": 4,
       "value": "\"te\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9507,
+      "offset": 9502,
       "length": 7,
       "value": "\"en-US\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9543,
+      "offset": 9538,
       "length": 7,
       "value": "\"hi-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9582,
+      "offset": 9577,
       "length": 7,
       "value": "\"gu-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9620,
+      "offset": 9615,
       "length": 7,
       "value": "\"mr-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9658,
+      "offset": 9653,
       "length": 7,
       "value": "\"bn-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9695,
+      "offset": 9690,
       "length": 7,
       "value": "\"te-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9808,
+      "offset": 9803,
       "length": 18,
       "value": "\"en-US-AriaNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9855,
+      "offset": 9850,
       "length": 19,
       "value": "\"hi-IN-SwaraNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9906,
+      "offset": 9901,
       "length": 20,
       "value": "\"gu-IN-DhwaniNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9957,
+      "offset": 9952,
       "length": 20,
       "value": "\"mr-IN-AarohiNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10008,
+      "offset": 10003,
       "length": 22,
       "value": "\"bn-IN-TanishaaNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10060,
+      "offset": 10055,
       "length": 20,
       "value": "\"te-IN-ShrutiNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10188,
+      "offset": 10183,
       "length": 33,
       "value": "\"Press mic to begin conversation\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10250,
+      "offset": 10245,
       "length": 92,
       "value": "\"बातचीत शुरू करने के लिए माइक दबाएं\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10374,
+      "offset": 10369,
       "length": 85,
       "value": "\"વાતચીત શરૂ કરવા માટે માઇક દબાવો\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10490,
+      "offset": 10485,
       "length": 90,
       "value": "\"संभाषण सुरू करण्यासाठी माइक दाबा\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10611,
+      "offset": 10606,
       "length": 78,
       "value": "\"কথোপকথন শুরু করতে মাইক টিপুন\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10719,
+      "offset": 10714,
       "length": 113,
       "value": "\"సంభాషణను ప్రారంభించడానికి మైక్ నొక్కండి\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10945,
+      "offset": 10940,
       "length": 7,
       "value": "\"hi-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 10973,
+      "offset": 10968,
       "length": 19,
       "value": "\"hi-IN-SwaraNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11006,
+      "offset": 11001,
       "length": 7,
       "value": "\"gu-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11034,
+      "offset": 11029,
       "length": 20,
       "value": "\"gu-IN-DhwaniNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11068,
+      "offset": 11063,
       "length": 7,
       "value": "\"mr-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11096,
+      "offset": 11091,
       "length": 20,
       "value": "\"mr-IN-AarohiNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11130,
+      "offset": 11125,
       "length": 7,
       "value": "\"bn-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11158,
+      "offset": 11153,
       "length": 22,
       "value": "\"bn-IN-TanishaaNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11194,
+      "offset": 11189,
       "length": 7,
       "value": "\"te-IN\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11222,
+      "offset": 11217,
       "length": 20,
       "value": "\"te-IN-ShrutiNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11279,
+      "offset": 11274,
       "length": 18,
       "value": "\"en-US-AriaNeural\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 8978,
+      "offset": 8973,
       "length": 9,
       "value": "\"English\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 8997,
+      "offset": 8992,
       "length": 17,
       "value": "\"हिंदी\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9027,
+      "offset": 9022,
       "length": 23,
       "value": "\"ગુજરાતી\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9062,
+      "offset": 9057,
       "length": 17,
       "value": "\"मराठी\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9091,
+      "offset": 9086,
       "length": 17,
       "value": "\"বাংলা\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 9119,
+      "offset": 9114,
       "length": 20,
       "value": "\"తెలుగు\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11519,
+      "offset": 11514,
       "length": 17,
       "value": "\"SpeakerLanguage\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11800,
+      "offset": 11795,
       "length": 17,
       "value": "\"SpeakerLanguage\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 11964,
+      "offset": 11959,
       "length": 18,
       "value": "\"ListenerLanguage\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/LanguageSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 12244,
+      "offset": 12239,
       "length": 18,
       "value": "\"ListenerLanguage\""
     },
@@ -7291,994 +7326,1001 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1866,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1993,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2084,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2368,
+      "offset": 1807,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 2536,
-      "length": 24,
-      "value": "\"home_bottom_transition\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2750,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2931,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3086,
-      "length": 8,
-      "value": "\"F5F5F5\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3103,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3142,
-      "length": 4,
-      "value": "25.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3328,
-      "length": 4,
-      "value": "25.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3357,
-      "length": 10,
-      "value": "\"Contacts\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3425,
-      "length": 8,
-      "value": "\"0F3CC9\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3442,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3522,
-      "length": 4,
-      "value": "16.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3692,
-      "length": 8,
-      "value": "\"0F3CC9\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3709,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3738,
-      "length": 8,
-      "value": "\"Recent\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3798,
-      "length": 4,
-      "value": "25.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 3914,
-      "length": 4,
-      "value": "16.0"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "Array",
-      "offset": 3998,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 4061,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4149,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 4241,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "Array",
-      "offset": 4317,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4346,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4378,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5290,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5306,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6127,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6194,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
-      "kind": "StringLiteral",
-      "offset": 6324,
+      "offset": 1879,
       "length": 13,
       "value": "\"searchField\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6489,
+      "offset": 2104,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2161,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2456,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 2624,
+      "length": 24,
+      "value": "\"home_bottom_transition\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2838,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3019,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3174,
+      "length": 8,
+      "value": "\"F5F5F5\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3191,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3230,
+      "length": 4,
+      "value": "25.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3416,
+      "length": 4,
+      "value": "25.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3445,
+      "length": 10,
+      "value": "\"Contacts\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3513,
+      "length": 8,
+      "value": "\"0F3CC9\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3530,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3610,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3780,
+      "length": 8,
+      "value": "\"0F3CC9\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3797,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3826,
+      "length": 8,
+      "value": "\"Recent\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3886,
+      "length": 4,
+      "value": "25.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 4002,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "Array",
+      "offset": 4086,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 4149,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4237,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 4334,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "Array",
+      "offset": 4410,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4439,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4471,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5383,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5399,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6220,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6549,
+      "offset": 6287,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "StringLiteral",
+      "offset": 6417,
+      "length": 13,
+      "value": "\"searchField\""
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6582,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6642,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6741,
+      "offset": 6834,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6757,
+      "offset": 6850,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7220,
+      "offset": 7313,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7446,
+      "offset": 7539,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7612,
+      "offset": 7705,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7685,
+      "offset": 7778,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7757,
+      "offset": 7850,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8137,
+      "offset": 8230,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8325,
+      "offset": 8418,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8429,
+      "offset": 8522,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8631,
+      "offset": 8724,
       "length": 3,
       "value": "-56"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8738,
+      "offset": 8831,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8814,
+      "offset": 8907,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8891,
+      "offset": 8984,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9087,
+      "offset": 9180,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9191,
+      "offset": 9284,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9264,
+      "offset": 9357,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9338,
+      "offset": 9431,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9490,
+      "offset": 9583,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 9594,
+      "offset": 9687,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 9701,
+      "offset": 9794,
       "length": 5,
       "value": "-16.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9784,
+      "offset": 9877,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 10191,
+      "offset": 10284,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 10605,
+      "offset": 10698,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 10790,
+      "offset": 10883,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 10881,
+      "offset": 10974,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 10974,
+      "offset": 11067,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11043,
+      "offset": 11136,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11225,
+      "offset": 11318,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11486,
+      "offset": 11579,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11690,
+      "offset": 11783,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11794,
+      "offset": 11887,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11957,
+      "offset": 12050,
       "length": 3,
       "value": "116"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12175,
+      "offset": 12268,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12348,
+      "offset": 12441,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12457,
+      "offset": 12550,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13695,
+      "offset": 13788,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 14010,
+      "offset": 14103,
       "length": 13,
       "value": "\"Translation\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 14113,
+      "offset": 14206,
       "length": 25,
       "value": "\"ConversationTranslateVC\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14203,
+      "offset": 14296,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14341,
+      "offset": 14434,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14513,
+      "offset": 14606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 14742,
+      "offset": 14835,
       "length": 8,
       "value": "\"0F3CC9\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 14759,
+      "offset": 14852,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 14887,
+      "offset": 14980,
       "length": 8,
       "value": "\"0F3CC9\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 14904,
+      "offset": 14997,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14995,
+      "offset": 15088,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 15026,
+      "offset": 15119,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15143,
+      "offset": 15236,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15179,
+      "offset": 15272,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 15306,
+      "offset": 15399,
       "length": 8,
       "value": "\"0F3CC9\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 15323,
+      "offset": 15416,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 15509,
+      "offset": 15602,
       "length": 8,
       "value": "\"0F3CC9\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 15526,
+      "offset": 15619,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15558,
+      "offset": 15651,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 15589,
+      "offset": 15682,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15706,
+      "offset": 15799,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15743,
+      "offset": 15836,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15849,
+      "offset": 15942,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 16601,
+      "offset": 16694,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 16622,
+      "offset": 16715,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 16644,
+      "offset": 16737,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 16844,
+      "offset": 16937,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 16867,
+      "offset": 16960,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 17073,
+      "offset": 17166,
       "length": 35,
       "value": "\"Error fetching contacts: \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 17107,
+      "offset": 17200,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 17193,
+      "offset": 17286,
       "length": 28,
       "value": "\"Access to contacts denied.\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 17304,
+      "offset": 17397,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18134,
+      "offset": 18227,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18169,
+      "offset": 18262,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18253,
+      "offset": 18346,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18264,
+      "offset": 18357,
       "length": 3,
       "value": "\"+\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18359,
+      "offset": 18452,
       "length": 3,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18370,
+      "offset": 18463,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18445,
+      "offset": 18538,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18463,
+      "offset": 18556,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18483,
+      "offset": 18576,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18501,
+      "offset": 18594,
       "length": 2,
       "value": "\"==\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 18518,
+      "offset": 18611,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18538,
+      "offset": 18631,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18556,
+      "offset": 18649,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 18644,
+      "offset": 18737,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "Array",
-      "offset": 18730,
+      "offset": 18823,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 19025,
+      "offset": 19118,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 19234,
+      "offset": 19327,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 19258,
+      "offset": 19351,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "Array",
-      "offset": 19764,
+      "offset": 19857,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 19892,
+      "offset": 19985,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 19908,
+      "offset": 20001,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 19925,
+      "offset": 20018,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "Array",
-      "offset": 20375,
+      "offset": 20468,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 20866,
+      "offset": 20959,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 21542,
+      "offset": 21635,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 21809,
+      "offset": 21902,
       "length": 36,
       "value": "\"Current search text: \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 21844,
+      "offset": 21937,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21956,
+      "offset": 22049,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22043,
+      "offset": 22136,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 22451,
+      "offset": 22544,
       "length": 8,
       "value": "\"F5F5F5\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 22510,
+      "offset": 22603,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22557,
+      "offset": 22650,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 22762,
+      "offset": 22855,
       "length": 8,
       "value": "\"Search\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 22952,
+      "offset": 23045,
       "length": 20,
       "value": "\"call button tapped\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23138,
+      "offset": 23231,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23625,
+      "offset": 23718,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 23941,
+      "offset": 24034,
       "length": 34,
       "value": "\"User is not signed up on JioMeet\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 24107,
+      "offset": 24200,
       "length": 28,
       "value": "\"Can't send message to self\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 24254,
+      "offset": 24347,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Controllers\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 24608,
+      "offset": 24701,
       "length": 4,
       "value": "true"
     },
@@ -8635,42 +8677,49 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 712,
+      "offset": 867,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "StringLiteral",
-      "offset": 1083,
+      "offset": 1238,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "StringLiteral",
-      "offset": 1145,
+      "offset": 1300,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1485,
+      "offset": 1640,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1525,
+      "offset": 1680,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 1925,
+      "offset": 2080,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/Extension\/UIImage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2530,
       "length": 5,
       "value": "false"
     },
@@ -10371,259 +10420,259 @@
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "StringLiteral",
-      "offset": 1177,
+      "offset": 1182,
       "length": 26,
       "value": "\"playButtonForParticipant\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "StringLiteral",
-      "offset": 1259,
+      "offset": 1264,
       "length": 21,
       "value": "\"chatAudioPlayButton\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 1358,
+      "offset": 1363,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1674,
       "length": 11,
       "value": "\"audioWave\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 1744,
+      "offset": 1749,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 1928,
+      "offset": 1933,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2044,
+      "offset": 2049,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 2272,
+      "offset": 2277,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2336,
+      "offset": 2341,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2514,
+      "offset": 2519,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2680,
+      "offset": 2685,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2843,
+      "offset": 2848,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 3008,
+      "offset": 3013,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 3173,
+      "offset": 3178,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 3354,
+      "offset": 3359,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 3418,
+      "offset": 3423,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 3612,
+      "offset": 3617,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "StringLiteral",
-      "offset": 3668,
+      "offset": 3673,
       "length": 9,
       "value": "\"#E7EBF8\""
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 3718,
+      "offset": 3723,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 3783,
+      "offset": 3788,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "FloatLiteral",
-      "offset": 4008,
+      "offset": 4013,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "BooleanLiteral",
-      "offset": 4074,
+      "offset": 4079,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "FloatLiteral",
-      "offset": 5405,
+      "offset": 5410,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 5574,
+      "offset": 5579,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 5754,
+      "offset": 5759,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 5832,
+      "offset": 5837,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 5994,
+      "offset": 5999,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6078,
+      "offset": 6083,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6160,
+      "offset": 6165,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6228,
+      "offset": 6233,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6309,
+      "offset": 6314,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6378,
+      "offset": 6383,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6470,
+      "offset": 6475,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6555,
+      "offset": 6560,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6632,
+      "offset": 6637,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "IntegerLiteral",
-      "offset": 6714,
+      "offset": 6719,
       "length": 2,
       "value": "92"
     },
     {
       "filePath": "\/Users\/mani.baratam\/Desktop\/Git\/Devops\/JioMeetNativeSDKiOS\/Templates\/JioTranslate\/JioMatrixTranslationSDK\/View\/Cells\/ChatCellOthers.swift",
       "kind": "StringLiteral",
-      "offset": 6801,
+      "offset": 6806,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
@@ -10658,182 +10707,203 @@
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1301,
+      "offset": 1292,
+      "length": 6,
+      "value": "\"back\""
+    },
+    {
+      "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1425,
       "length": 11,
       "value": "\"call_home\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1460,
+      "offset": 1584,
       "length": 21,
       "value": "\"chatAudioPlayButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1627,
+      "offset": 1751,
       "length": 20,
       "value": "\"chatSelfPlayButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1779,
+      "offset": 1903,
       "length": 13,
       "value": "\"chevronDown\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1938,
+      "offset": 2062,
       "length": 20,
       "value": "\"completedAudioWave\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2092,
+      "offset": 2202,
+      "length": 7,
+      "value": "\"cross\""
+    },
+    {
+      "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2343,
       "length": 14,
       "value": "\"deleteButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2232,
+      "offset": 2483,
       "length": 10,
       "value": "\"exchange\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2394,
+      "offset": 2645,
       "length": 24,
       "value": "\"home_bottom_transition\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2541,
+      "offset": 2792,
       "length": 11,
       "value": "\"infoImage\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2682,
+      "offset": 2933,
       "length": 12,
       "value": "\"micLeading\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2830,
+      "offset": 3081,
       "length": 15,
       "value": "\"micStopButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2977,
+      "offset": 3228,
       "length": 13,
       "value": "\"micTrailing\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3129,
+      "offset": 3367,
+      "length": 10,
+      "value": "\"micWhite\""
+    },
+    {
+      "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3516,
       "length": 17,
       "value": "\"mic_highlighted\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3281,
+      "offset": 3668,
       "length": 15,
       "value": "\"mic_recording\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3436,
+      "offset": 3823,
       "length": 17,
       "value": "\"normalAudioWave\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3584,
+      "offset": 3971,
       "length": 13,
       "value": "\"notify_icon\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3729,
+      "offset": 4116,
       "length": 13,
       "value": "\"pauseButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3870,
+      "offset": 4257,
       "length": 11,
       "value": "\"pauseIcon\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4011,
+      "offset": 4398,
       "length": 12,
       "value": "\"playButton\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4181,
+      "offset": 4568,
       "length": 26,
       "value": "\"playButtonForParticipant\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4356,
+      "offset": 4743,
       "length": 22,
       "value": "\"radioButton_Selected\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4531,
+      "offset": 4918,
       "length": 24,
       "value": "\"radioButton_Unselected\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4687,
+      "offset": 5074,
       "length": 13,
       "value": "\"sendMessage\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4836,
+      "offset": 5223,
       "length": 15,
       "value": "\"soundbarBlack\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4988,
+      "offset": 5375,
       "length": 16,
       "value": "\"translate_icon\""
     },
     {
       "filePath": "\/var\/root\/Library\/Developer\/Xcode\/DerivedData\/JioTranslate-auwnseeodgmovdazaqhnaofpcxll\/Build\/Intermediates.noindex\/ArchiveIntermediates\/JioMatrixTranslationSDK\/IntermediateBuildFilesPath\/JioTranslate.build\/Release-iphonesimulator\/JioMatrixTranslationSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5133,
+      "offset": 5520,
       "length": 12,
       "value": "\"voice_home\""
     }
