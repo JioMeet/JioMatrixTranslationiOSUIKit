@@ -21,7 +21,7 @@ Please add below permissions keys to your `Info.plist` file with proper descript
 Please add below pod to your Podfile and run command `pod install --repo-update --verbose`.
 
 ```ruby
-pod 'JioMatrixTranslationSDK', '~> 0.1.0-alpha1'
+pod 'JioMatrixTranslationSDK', '~> 0.1.0-alpha2'
 ```
 
 Also please add this lines in your pod file if you're facing any issues.
